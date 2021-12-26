@@ -43,6 +43,7 @@ li a:hover {
   height: 150px;
   margin: 0 auto;
   background: white;
+  color: green;
 }
 .welcome_content {
   display: flex;
@@ -53,9 +54,11 @@ li a:hover {
   margin: 10px;
   background: #e5e5e5;
   box-shadow: 0 0 10px rgba(0, 0, 0);
+  font-style: oblique;
 }
 .welcome_title {
   font-size: 1.5em;
+  color: green;
 }
 span {
   color: #02af66;
